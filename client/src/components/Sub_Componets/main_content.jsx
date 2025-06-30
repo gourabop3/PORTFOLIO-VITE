@@ -27,8 +27,7 @@ const Content = () => {
         </span>
       </h2>
       <p className="xl:text-[1.02rem] lg:text-[0.9rem] sm:text-[0.81rem] text-[0.8rem] mt-2 font-semibold leading-normal">
-        I recently completed my B.Tech in ECE from PIEMR, Indore. I am
-        passionate about the software industry.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum officiis ratione similique quas, soluta reiciendis quos veniam. Molestiae, cumque fugiat.
       </p>
 
       <SocialMediaLinks />

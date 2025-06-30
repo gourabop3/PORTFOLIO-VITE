@@ -4,7 +4,7 @@ import GitHub from "../assets/3d-icon/github.png";
 import Facebook from "../assets/3d-icon/Facebook.png";
 import Instagram from "../assets/3d-icon/Instagram.png";
 import PIEMR from "../assets/images/PIEMR.png";
-import NBM from "../assets/images/NBM.png";
+//import NBM from "../assets/images/NBM.png";
 
 import Portfolio from "../assets/projects/project 1.png";
 import newE_comm from "../assets/projects/new E-commerce.png";
@@ -26,7 +26,7 @@ import MusicWebsite from "../assets/projects/14MusicallWebsite.png";
 import Vite_React from "../assets/skills/Vite_react.png";
 import firebase from "../assets/skills/Firebase.png";
 
-import Java from "../assets/skills/java.png";
+//import Java from "../assets/skills/java.png";
 import HTML from "../assets/skills/Html.png";
 import CSS from "../assets/skills/Css.png";
 import Javascript from "../assets/skills/Js.png";
@@ -37,8 +37,8 @@ import React from "../assets/skills/React.png";
 import Node from "../assets/skills/Node.png";
 import Redux from "../assets/skills/redux.png";
 import Git from "../assets/skills/git.png";
-import Figma from "../assets/skills/figma.png";
-import Arduino from "../assets/skills/arduino.png";
+//import Figma from "../assets/skills/figma.png";
+//import Arduino from "../assets/skills/arduino.png";
 import Nextjs from "../assets/skills/next.js.png";
 import Typescript from "../assets/skills/typescript.png";
 
@@ -47,31 +47,31 @@ import Vercel from "../assets/skills/Vercel.png";
 export const Social_Media = [{
         id: 1,
         name: "LinkedIn",
-        path: "https://www.linkedin.com/in/rajyadav-2920r0218j8/",
+        path: "#",
         image: Linkedin,
     },
     {
         id: 2,
         name: "Mail",
-        path: "mailto:rajyadav7047@gmail.com",
+        path: "mailto:gourabmullick200@gmail.com",
         image: Mail,
     },
     {
         id: 3,
         name: "GitHub",
-        path: "https://github.com/Rajyadav2912",
+        path: "https://github.com/gourabop3",
         image: GitHub,
     },
     {
         id: 4,
         name: "Facebook",
-        path: "https://www.facebook.com/profile.php?id=1000118515058",
+        path: "#",
         image: Facebook,
     },
     {
         id: 5,
         name: "Instagram",
-        path: "https://www.instagram.com/yadav_raj.29",
+        path: "https://www.instagram.com/gourab_op_84",
         image: Instagram,
     },
 ];
@@ -132,27 +132,27 @@ export const Links = [{
 
 export const Edu_Data = [{
         id: 1,
-        name: "Prestige Institute of Engineering Management & Research, Indore",
+        name: "Sonamukhi College, Bankura",
         date: "June 2020 - June 2024",
-        branch: "Branch: Electronic's and Communication Engineering",
+        branch: "Branch: Bengali Medium",
         image: PIEMR,
-        standard: "Year : B.Tech-(4th) ",
+        standard: "Year : B.Com ",
     },
     {
         id: 2,
-        name: "Nehru Bal Mandir Higher Secondry School, Indore",
+        name: "Indus High School, Bankura",
         date: "June 2019 - March 2020",
-        branch: "Branch: English Medium",
+        branch: "Branch: Bengali Medium",
         image: NBM,
-        standard: "Class: 12th (PCM) | MPBSE",
+        standard: "Class: 12th (COM) | WBBSE",
     },
     {
         id: 3,
-        name: "Nehru Bal Mandir Higher Secondry School, Indore",
+        name: "Patit High School, Bankura",
         date: "June 2017 - March 2018",
-        branch: "Branch: English Medium",
+        branch: "Branch: Bengali Medium",
         image: NBM,
-        standard: "Class: 10th | MPBSE",
+        standard: "Class: 10th | WBBSE",
     },
 ];
 
@@ -160,9 +160,9 @@ export const about = [{
     id: 1,
     title: "ABOUT ME ",
     heading: "Hi, I'm GOURAB & I'm ",
-    description: "I recently completed my B.Tech in ECE from PIEMR, Indore. I'm passionate about the software industry and thrive on challenges. As an avid learner with a natural curiosity, I am eager to explore new horizons in both my academic and professional journey.",
-    email: "rajyadav7047@gmail.com",
-    location: "Indore (M.P), 452010",
+    description: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum officiis ratione similique quas, soluta reiciendis quos veniam. Molestiae, cumque fugiat.",
+    email: "gourabmullick200@gmail.com",
+    location: "Sonamukhi (WB), 722207",
 }, ];
 
 export const project = [
