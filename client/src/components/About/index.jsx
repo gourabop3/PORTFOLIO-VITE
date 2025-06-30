@@ -1,5 +1,5 @@
 import React from "react";
-//import AboutIMG from "../../assets/images/Profile pic.jpg";
+import AboutIMG from "../../assets/images/Profile pic.jpg";
 import { about } from "../../config";
 import AboutHero from "../Sub_Componets/aboutHero";
 import AboutContent from "../Sub_Componets/aboutContent";
