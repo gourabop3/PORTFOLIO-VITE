@@ -11,7 +11,7 @@ const About = () => {
         return (
           <>
             <div className="about-page" key={index}>
-              <AboutHero image={#} id={item.id} />
+              <AboutHero image={ABOUTIMG} id={item.id} />
               <AboutContent
                 id={item.id}
                 title={item.title}
