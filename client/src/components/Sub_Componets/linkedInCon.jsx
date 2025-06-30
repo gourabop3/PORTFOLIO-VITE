@@ -25,7 +25,7 @@ const LinkedInCon = () => {
             </div>
 
             <h1 className="xl:text-[1.4rem] text-[1.2rem] font-semibold opacity-[75%]">
-              Raj Yadav
+              Gourab
             </h1>
 
             <p className="flex flex-col mx-auto xl:text-[1rem] sm:text-[0.8rem] text-[0.9rem] px-[3px]">

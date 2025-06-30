@@ -23,7 +23,7 @@ const Footer = () => {
         <div className="flex flex-wrap xl:w-[90%] lg:w-[90%] w-full lg:h-[300px] md:h-[550px] sm:h-[700px] h-[750px] justify-around mx-auto">
           <div className="lg:w-[30%] md:w-[45%] sm:w-[60%] w-full p-5 flex flex-col md:items-start items-center gap-4">
             <h1 className="font-extrabold xl:text-[35px] sm:text-[30px] text-[28px] text-orange-400">
-              Raj Yadav
+              Gourab
             </h1>
             <p className="font-bold md:text-start text-center md:text-[14px] sm:text-[16px] text-[12px]">
               Thank you for visiting my personal portfolio website. Connect with
@@ -103,7 +103,7 @@ const Footer = () => {
         <div className="w-[90%] flex flex-col gap-4 items-center">
           <div className="w-full h-[1px] border"></div>
           <div className="font-bold sm:text-[14px] text-[12px] flex items-center gap-2">
-            <RiCopyrightLine /> Copyright and Designed with 😎 by Raj Yadav
+            <RiCopyrightLine /> Copyright and Designed with 😎 by Gourab
           </div>
         </div>
       </div>

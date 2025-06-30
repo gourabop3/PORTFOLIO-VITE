@@ -34,7 +34,7 @@ const NavigationBar = () => {
               <img src={logo} alt="logo.png" className="w-full h-full" />
             </div>
             <h2 className="xl:text-3xl md:text-2xl text-[22px] font-bold animate-text bg-gradient-to-br from-blue-600 via-purple-600 to-yellow-400 bg-clip-text text-transparent">
-              Raj Yadav
+              Gourab
             </h2>
           </Link>
         </div>

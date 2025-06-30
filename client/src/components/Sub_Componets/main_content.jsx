@@ -3,7 +3,7 @@ import { FaDownload } from "react-icons/fa6";
 // import ALLButton from "./allButton";
 import TextAnimation from "./textanimation";
 import SocialMediaLinks from "../Common/SocialMedia";
-import resume from "../../assets/Raj Yadav_Resume.pdf";
+import resume from "../../assets/Gourab_Resume.pdf";
 import { Link } from "react-router-dom";
 
 const Content = () => {
@@ -16,7 +16,7 @@ const Content = () => {
         className="xl:text-[5.5rem] lg:text-[3.8rem] md:text-[3.6rem] sm:text-[3.5rem] text-[3rem] font-black leading-normal animate-text bg-gradient-to-r
        from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent"
       >
-        Raj Yadav
+        Gourab
       </h1>
       <h2 className="flex gap-2 xl:text-[2rem] lg:text-[1.8rem] sm:text-[1.6rem] text-[1.5rem] font-black leading-normal">
         And I&#39;m
