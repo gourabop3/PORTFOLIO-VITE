@@ -4,7 +4,7 @@ import GitHub from "../assets/3d-icon/github.png";
 import Facebook from "../assets/3d-icon/Facebook.png";
 import Instagram from "../assets/3d-icon/Instagram.png";
 import PIEMR from "../assets/images/PIEMR.png";
-//import NBM from "../assets/images/NBM.png";
+import NBM from "../assets/images/NBM.png";
 
 import Portfolio from "../assets/projects/project 1.png";
 import newE_comm from "../assets/projects/new E-commerce.png";
@@ -26,7 +26,7 @@ import MusicWebsite from "../assets/projects/14MusicallWebsite.png";
 import Vite_React from "../assets/skills/Vite_react.png";
 import firebase from "../assets/skills/Firebase.png";
 
-//import Java from "../assets/skills/java.png";
+import Java from "../assets/skills/java.png";
 import HTML from "../assets/skills/Html.png";
 import CSS from "../assets/skills/Css.png";
 import Javascript from "../assets/skills/Js.png";
@@ -37,8 +37,8 @@ import React from "../assets/skills/React.png";
 import Node from "../assets/skills/Node.png";
 import Redux from "../assets/skills/redux.png";
 import Git from "../assets/skills/git.png";
-//import Figma from "../assets/skills/figma.png";
-//import Arduino from "../assets/skills/arduino.png";
+import Figma from "../assets/skills/figma.png";
+import Arduino from "../assets/skills/arduino.png";
 import Nextjs from "../assets/skills/next.js.png";
 import Typescript from "../assets/skills/typescript.png";
 
